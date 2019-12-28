@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Exercise: Mini App Sprint\r In this 4-day sprint, you will build four \"mini apps\" completely from scratch. Building small apps from scratch is something that you will be asked to do in every technical interview during your job search. Mastering these concepts is essential to landing a job.",
+  "main": "index.js",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "express": "^4.17.1",
+    "nvm": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdlrrahman/rbktn01-mini-apps-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdlrrahman/rbktn01-mini-apps-1/issues"
+  },
+  "homepage": "https://github.com/Abdlrrahman/rbktn01-mini-apps-1#readme"
+}
