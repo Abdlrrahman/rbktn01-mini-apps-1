@@ -12,7 +12,7 @@ class Form1 extends React.Component {
     }
     render() {
         return (
-            <form onclick="event.preventDefault()" id="F1" method="POST" name="input1" action="/F2">
+            <form id="F1" method="POST" name="input1" action="/F2">
                 First name: <input type="text" name="fname"></input><br></br>
                 Last name: <input type="text" name="lname"></input><br></br>
                 Email: <input type="text" name="lname"></input><br></br>
